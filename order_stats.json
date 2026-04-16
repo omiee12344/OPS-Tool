@@ -1,0 +1,51 @@
+{
+  "customers": {
+    "HK": {
+      "files_processed": 7,
+      "orders_processed": 18,
+      "last_processed": "2026-04-01 23:07"
+    },
+    "Craft": {
+      "files_processed": 4,
+      "orders_processed": 4,
+      "last_processed": "2026-04-01 22:59"
+    },
+    "Anaya": {
+      "files_processed": 3,
+      "orders_processed": 3,
+      "last_processed": "2026-04-02 00:24"
+    },
+    "PC2": {
+      "files_processed": 2,
+      "orders_processed": 6,
+      "last_processed": "2026-04-01 23:44"
+    },
+    "SGI": {
+      "files_processed": 1,
+      "orders_processed": 15,
+      "last_processed": "2026-04-01 23:45"
+    },
+    "FSA": {
+      "files_processed": 2,
+      "orders_processed": 10,
+      "last_processed": "2026-04-01 23:51"
+    },
+    "Ambition": {
+      "files_processed": 8,
+      "orders_processed": 22,
+      "last_processed": "2026-04-02 11:21"
+    },
+    "SHEFI New PO": {
+      "files_processed": 5,
+      "orders_processed": 113,
+      "last_processed": "2026-04-02 01:00"
+    },
+    "JU": {
+      "files_processed": 3,
+      "orders_processed": 6,
+      "last_processed": "2026-04-09 14:39"
+    }
+  },
+  "total_files": 35,
+  "total_orders": 197
+}
